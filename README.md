@@ -4,7 +4,7 @@
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
  <!--![ezgif com-gif-maker] --aqui va el link-->
 <div align="center">
- ¡Hola!<br><br>
+ <h1>¡Hola!</h1><br><br>
  <img  height="300" align="center" src="https://user-images.githubusercontent.com/86128329/122868713-f2a7cf80-d2f0-11eb-8ec5-414e4b546cdf.gif"> 
 </div>
 
