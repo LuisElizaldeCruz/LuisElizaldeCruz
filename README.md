@@ -3,7 +3,10 @@
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <!--![ezgif com-gif-maker] --aqui va el link-->
-<div align="center"><img  height="300" align="center" src="https://user-images.githubusercontent.com/86128329/122868713-f2a7cf80-d2f0-11eb-8ec5-414e4b546cdf.gif"> </div>
+<div align="center">
+ ¡Hola!
+ <img  height="300" align="center" src="https://user-images.githubusercontent.com/86128329/122868713-f2a7cf80-d2f0-11eb-8ec5-414e4b546cdf.gif"> 
+</div>
 
 &nbsp;
 
