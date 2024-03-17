@@ -1,9 +1,10 @@
 # ¡Hola! soy Luis Eduardo
-### Desarrollador web
-Actualmente me estoy enfocando en desarrollar aplicaciones web con la siguientes herrramientas:
+### Programador JAVA
+Actualmente me estoy enfocando en mejorar mis conocimientos en JAVA, tambien estoy usando otras herramientas como:
 - **HTML**
 - **CSS**
 - **JAVASCRIPT**
 - **REACT**
+- **MySQL**
 
-Tambien estoy reforzando mis conocimientos en **MySQL** y **JAVA** y sus multiples herramientas como **SPRINGBOOT** para poder utilizarlos en proyectos cada vez mas complejos y poder hacer un codigo mas optimizado y limpio.
+Tambien estoy reforzando mis conocimientos en **SPRINGBOOT** para poder utilizarlos en proyectos cada vez mas complejos y poder hacer un codigo mas optimizado y limpio.
